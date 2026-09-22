@@ -1,4 +1,4 @@
-#ifndef EJEMPLOS_H
+/*#ifndef EJEMPLOS_H
 #define EJEMPLOS_H
 
 // ---------------------------------------------------------
@@ -32,4 +32,4 @@ unsigned char aplicarXOR(unsigned char valor, unsigned char clave);
 // ---------------------------------------------------------
 void construirDiccionarioLZ78(const char* texto);
 
-#endif
+#endif*/

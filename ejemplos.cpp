@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include "ejemplos.h"
 
 using namespace std;
@@ -203,4 +203,4 @@ void construirDiccionarioLZ78(const char* texto) {
 
     delete[] prefijos;
     delete[] caracteres;
-}
+}*/
